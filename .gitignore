@@ -12,7 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
-#IntelliJ ignores
+# IntelliJ ignores
 .idea/
 */.idea/
 **/*.iml
